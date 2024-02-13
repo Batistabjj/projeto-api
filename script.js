@@ -78,6 +78,7 @@ btnGo.addEventListener('click', async (event) => {
 });
 btnReset.addEventListener('click', () => location.reload());
 // marlom
+// flavio 
 
 
    
